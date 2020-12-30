@@ -4,7 +4,7 @@ so ~/.vim/plugins.vim
 
 syntax on
 set number
-colorscheme atom-dark-256
+colorscheme atom-dark
 
 let mapleader = ','
 
