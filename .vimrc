@@ -4,11 +4,12 @@ so ~/.vim/plugins.vim
 
 syntax on
 set number
-colorscheme atom-dark-256
 
 let mapleader = ','
+colorscheme atom-dark
 
 if !has('gui_running')
+  colorscheme atom-dark-256
   set t_Co=256
 endif
 
